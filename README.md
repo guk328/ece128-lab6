@@ -1,5 +1,7 @@
 ECE128 Lab 6 - FSMs and Debouncer
+
 Names: Madeline Grassi, Guranaad Kaur
+
 Date: 10/16/2026
 
 Project description: This lab implements a switch debouncer and two finite state machine sequence detectors in Verilog (Moore sequence 1100 and Mealy overlapping sequence 1101). The designs were simulated in Vivado, and the debouncer was then implemented during lab using a Basys 3 FPGA board. A push button is used as the input and an LED is used as the output.
